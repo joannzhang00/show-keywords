@@ -1,4 +1,4 @@
-# show-keywords
+# show-keywords - using python string functions and methods
 Given a chunk of text (through a file) and a keyword, locate the first occurrence of the keyword in the text, output the sentence in which the keyword appears, along with the sentences before and after.
 
 To describe the program, let’s start with a brief review of the requirements. The program should read the following input:
